@@ -1,5 +1,6 @@
-# New Skills
-learning new skills improves everyday life
+工作之余感兴趣的事情都会尝试，之所以有这个合集，是因为网上搜来的好多教程和文章讲的都不是很清楚，学习成本反而加大。这里的内容都是我觉得看完后就能够很快开始练习和上手的教程。
+
+好的开始是成功的一半 :metal:
 
 ### 滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
