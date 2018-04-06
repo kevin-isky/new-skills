@@ -11,6 +11,10 @@
 + [从零开始学蛙泳](https://morongs.github.io/2016/07/31/wayonglianxi/)
 + [如何正确有效地学习自由泳](https://morongs.github.io/2016/09/15/xuexiziyouyong/)
 > 适合游泳初学和进阶，入门蛙泳和自由泳。
++ [克服对水的恐惧](https://www.sikana.tv/zh/sport/getting-comfortable-in-the-water)
++ [学习蛙泳](https://www.sikana.tv/zh/sport/breaststroke)
++ [学习自由泳](https://www.sikana.tv/zh/sport/front-crawl)
+> 一个专注技能学习的国外网站的游泳教程，有专门的中文内容和教学视频。
 
 ## License
 
